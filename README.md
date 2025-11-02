@@ -1,11 +1,11 @@
 ### <h1>Hi there 👋 I am Ahmed Ramadan</h1>
 
-> Dynamic and results-driven backend developer with a proven track record of leading complex technical projects and delivering innovative solutions, Expertise in NodeJS, Laravel, Django, JavaScript, Python, MongoDB and MySQL. Adept at development lifecycles, from conceptualization to deployment, while ensuring optimal performance, scalability, and maintainability. Demonstrated success in developing and enhancing web applications, integrating cutting-edge technologies, and transforming legacy systems into modern, efficient platforms. Skilled in database management, server maintenance, and cross-functional collaboration, with a strong ability to solve complex technical challenges and deliver impactful results. Recognized for outstanding performance and a commitment to excellence in high-stakes environments.
+> Result-driven backend developer focused on delivering practical, high-quality solutions that align with real business needs. Combines analytical thinking with a structured development approach to design, build, and maintain reliable systems. Recognized for consistency, attention to detail, and the ability to turn complex technical problems into clear, effective results. Maintains a balanced mindset between performance, simplicity, and long-term maintainability.
 > <br />
 
 - 📝 Bachelor of **Computer Engineering**
 - 🎨 Check out my **[Portfolio](https://ahmed-ramadan-professional.github.io)**
-- 🔗 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/ahmed-ramadan-professional/)**
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ahmed-ramadan-professional/)**
 - 📫 How to reach me using E-Mail : **ahmed.ramadan.professional@gmail.com**
 - 💬 Ask me about anything, **I am always happy to help**
 
